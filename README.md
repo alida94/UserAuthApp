@@ -40,7 +40,7 @@ A React Native mobile app with **Login and Signup functionality**, using **React
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/alida94/UserAuthApp.git)
 cd UserAuthApp
 ```
 
